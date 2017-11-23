@@ -18,6 +18,7 @@ class String
     binding.pry
     self.split('.?').length
   end
+count_sentences
 end
 
-count_sentences
+
