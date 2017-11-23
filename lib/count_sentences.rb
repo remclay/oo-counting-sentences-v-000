@@ -19,3 +19,5 @@ class String
     self.split('.?').length
   end
 end
+
+count_sentences
